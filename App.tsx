@@ -1,9 +1,9 @@
-import React, { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { 
-  Map as MapIcon, Lock, Star, ChevronRight, PenTool, X, Award, Play, 
-  CheckCircle, AlertTriangle, XCircle, Calculator, Compass, Scale, Key, 
-  Coins, FlaskConical, Hammer, FileText, Book, Volume2, VolumeX, User, 
-  Zap, Crown, Sparkles, HelpCircle, Clock, RefreshCw, Settings, Unlock, 
+  Map as MapIcon, Star, ChevronRight, PenTool, X, Award, 
+  CheckCircle, AlertTriangle, XCircle, Calculator, Compass, Scale, 
+  Coins, FlaskConical, Hammer, FileText, Book, Volume2, VolumeX, 
+  Zap, HelpCircle, RefreshCw, Settings, Unlock, 
   Printer, Eraser, ListX, ArrowRight 
 } from 'lucide-react';
 
